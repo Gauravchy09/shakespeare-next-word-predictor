@@ -1,6 +1,8 @@
-python==3.8.10
-streamlit==1.12.2
-numpy==1.23.5
 tensorflow==2.15.0
-pandas==1.5.3
-pip==25.3
+pandas 
+numpy 
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
