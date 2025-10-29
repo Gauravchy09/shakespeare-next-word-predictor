@@ -1,3 +1,5 @@
 streamlit
 numpy
-tensorflow-cpu
+pandas
+python == 3.11
+tensorflow-cpu == 2.15.0
