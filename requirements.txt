@@ -3,3 +3,4 @@ streamlit==1.12.2
 numpy==1.23.5
 tensorflow==2.15.0
 pandas==1.5.3
+pip==25.3
